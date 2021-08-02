@@ -1,5 +1,5 @@
 ![capa github](https://github.com/higortavares/higortavares/blob/main/images/higortavares.png)  
-# Hi, Welcome to my Github!
+# Hi, welcome to my Github!
 
 I am web developer and I work with some technologies such as Spring Boot , MyBatis, Hibernate, Jasper reports, Angular, REST Apis and some others.
 I have some experience with payment methods, system integration with Apache Camel, security with JWT and I like to improve myself and share my knowledge
